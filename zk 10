@@ -39,4 +39,4 @@ describe("ERC20", function () {
     console.warn("events: ", receipt.events);
   });
 });
-end)
+end)}
